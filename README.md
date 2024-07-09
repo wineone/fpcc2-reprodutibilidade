@@ -18,6 +18,7 @@ Esse artigo descreve a utilização do modelo de linguagem T5 para a geração d
 
 - Originalmente o autor utiliza o batch size de 32 para o treinamento, porém, por limites de memória de GPU, tivemos que diminuir o batch-size para 28.
 - Experimento com a reprodutibilidade está localizado em ```reprodutibilidade.ipynb```
+- O PDF com a descrição do trabalho está localizado em ```fpcc2_reprodutibilidade.pdf```
 
 
 ### Métricas reportadas pelo author vs métricas com a reprodutibilidade
